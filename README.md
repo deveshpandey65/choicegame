@@ -1,2 +1,2 @@
 # choicegame
-stone,paper,sessior game
+stone,paper,sessior game using python
