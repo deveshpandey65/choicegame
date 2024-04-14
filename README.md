@@ -1,2 +1,2 @@
 # choicegame
-stone,paper,sessior same
+stone,paper,sessior game
